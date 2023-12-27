@@ -4,7 +4,7 @@
 </div>
 
 
-## Useage
+## Usage
 
 ```python
 from torchfcpe import spawn_bundled_infer_model
